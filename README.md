@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jeethen07
 - 👀 I’m interested in ... Web Development.
 - 🌱 I’m currently learning ... Java Script
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jeethencrasta@gmail.com
 
 <!---
